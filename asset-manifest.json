@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/diploma_youtube/static/css/main.9825eaf8.chunk.css",
+    "main.js": "/diploma_youtube/static/js/main.99a4f31c.chunk.js",
+    "main.js.map": "/diploma_youtube/static/js/main.99a4f31c.chunk.js.map",
+    "runtime-main.js": "/diploma_youtube/static/js/runtime-main.a190badb.js",
+    "runtime-main.js.map": "/diploma_youtube/static/js/runtime-main.a190badb.js.map",
+    "static/css/2.b87f5b0c.chunk.css": "/diploma_youtube/static/css/2.b87f5b0c.chunk.css",
+    "static/js/2.65c575b7.chunk.js": "/diploma_youtube/static/js/2.65c575b7.chunk.js",
+    "static/js/2.65c575b7.chunk.js.map": "/diploma_youtube/static/js/2.65c575b7.chunk.js.map",
+    "index.html": "/diploma_youtube/index.html",
+    "static/css/2.b87f5b0c.chunk.css.map": "/diploma_youtube/static/css/2.b87f5b0c.chunk.css.map",
+    "static/css/main.9825eaf8.chunk.css.map": "/diploma_youtube/static/css/main.9825eaf8.chunk.css.map",
+    "static/js/2.65c575b7.chunk.js.LICENSE.txt": "/diploma_youtube/static/js/2.65c575b7.chunk.js.LICENSE.txt",
+    "static/media/slick-theme.css": "/diploma_youtube/static/media/slick.c94f7671.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a190badb.js",
+    "static/css/2.b87f5b0c.chunk.css",
+    "static/js/2.65c575b7.chunk.js",
+    "static/css/main.9825eaf8.chunk.css",
+    "static/js/main.99a4f31c.chunk.js"
+  ]
+}
